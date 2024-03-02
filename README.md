@@ -7,9 +7,7 @@ This project is an authentication example project implemented backend with Djang
 To install this project, clone the repository and run the following commands:
 
 ```
-git clone https://github.com/RiajulKashem/drf-next-auth.git
-cd drf-next-auth
-npm install
+git clone https://github.com/hi-zeus/django-next-auth.git
 ```
 ### Running the project
 To run the project, first start the Django backend:
